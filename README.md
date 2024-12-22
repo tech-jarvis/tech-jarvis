@@ -17,10 +17,6 @@ Transforming ideas into tangible solutions
 <br>Collaborating effectively to achieve shared goals
 <br>Writing clean, maintainable, and well-tested code
 
----
-
-## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-jarvis&show_icons=true&theme=radical)
 
 ---
 
