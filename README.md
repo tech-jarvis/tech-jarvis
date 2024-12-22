@@ -1,7 +1,9 @@
 **Hi there! I'm Ashar, a full-stack problem-solver.**
 # 💫 About Me:
-I'm currently working as lead engineer at kallidus
+I'm currently working as lead technical engineer at kallidus
 <br>**I'm fluent in:**
+
+<br> Python
 <br>Ruby on Rails
 <br>Javascript
 <br>Test-Driven Development (RSpec)
