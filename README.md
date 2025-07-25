@@ -1,11 +1,15 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
 ## 👨‍💻 About Me
-I’m **Ashar**, a passionate **Engineer** with a knack for building innovative and scalable solutions. I love exploring new technologies and applying them to solve real-world problems.
+I’m Ashar, a Senior Full Stack Engineer with 8+ years of experience delivering robust, scalable solutions across SaaS platforms, AI-powered systems, and technical domains like manufacturing and HR tech. I specialize in React, Node.js, NestJS, TypeScript, and Python, with a strong focus on computer vision, canvas tools, and cloud infrastructure (AWS Lambda, S3).
 
-- 🌟 **Key Interests**: Web Development, Machine Learning, Open Source, Project/Team Management 
-- 🌍 **Languages & Tools**: Python, Ruby on Rails, JS, Mern, Agile, Jira
-- 💼 **Current Role**: lead technical engineer at kallidus
+🌟Key Technologies
+- Frontend: React, TypeScript, Material UI, Fabric.js
+- Backend: Node.js, NestJS, Python, PostgreSQL
+- Cloud & DevOps: AWS Lambda, S3, CloudWatch
+- AI / Computer Vision: OpenCV, annotation pipelines, geometry extraction, canvas transformations
+- Tools: GitHub Actions, Docker, Agile, Jira
+- 💼 **Current Role**: lead tecnical engineer at kallidus
 
 ---
 
