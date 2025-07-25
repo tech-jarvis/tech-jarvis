@@ -39,9 +39,12 @@ Transforming ideas into tangible solutions
 ---
 
 ## 🧰 Tech Stack
-- **Programming Languages**: Python, Ruby, Javascript 
-- **Frameworks & Libraries**: Rails, React, Angular, Node 
-- **Tools & Platforms**: AWS, Jenkins, Jira
+- **Languages:** TypeScript, Python, JavaScript, SQL, Bash
+- **Frameworks & Libraries**: React, NestJS, Node.js, Express, Fabric.js, OpenCV
+- **Cloud & DevOps:** AWS Lambda, AWS S3, Docker, GitHub Actions
+- **Databases:** PostgreSQL, MongoDB
+- **AI & Vision Tools:** OpenCV, annotation tools, ClaudeAI
+- **Other:** Agile, Jira, REST, GraphQL
 
 
 
@@ -53,9 +56,13 @@ Transforming ideas into tangible solutions
 ---
 
 ## 🎯 Fun Facts
-- 🛠️ I’m currently working on ToMarket.
-- 🌱 I’m learning AI/ML, LLMs.
- 
+🧠 I’m currently experimenting with LLMs and ClaudeAI for assisted drawing interpretation
+
+🎯 Passionate about merging AI with industrial workflows
+
+🛠️ Actively maintaining canvas and CV-related open-source tools
+
+🌱 Always learning — most recently: AWS CDK and Clean Architecture in NestJS
 
 ---
 
