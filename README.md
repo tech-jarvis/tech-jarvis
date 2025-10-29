@@ -155,11 +155,11 @@ Built a comprehensive online consultation platform.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-jarvis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-jarvis&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tech-jarvis&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -268,7 +268,7 @@ const funFacts = {
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tech-jarvis&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -314,7 +314,7 @@ const funFacts = {
 
 ### 💙 Thanks for visiting!
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tech-jarvis/count.svg)
 
 **⭐ Star my repositories if you find them useful!**
 
