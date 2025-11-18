@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mail.asharali@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox-browser&logoColor=white)](https://sanentur.com)
 
 </div>
 
@@ -50,6 +49,7 @@ const ashar = {
 
 ### **Languages**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Ruby](https://www.ruby-lang.org/images/header-ruby-logo.png)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -243,7 +243,6 @@ I'm always interested in:
 
 [![Email](https://img.shields.io/badge/-mail.asharali@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.asharali@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sanentur.com)
 
 </div>
 
